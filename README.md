@@ -63,12 +63,9 @@ QM (No Risk)
 - HARA분석은 Item Definition에서 정의되어진 기능을 바탕으로 평가를 진행
 - HARA를 통해 개발하는 제품 기능의 안정성을 증명하기 위한 최종 목표 (Safety Goal)
 가 해당 문서를 통해 정의
-- 위에서 언급한 Severity (S), Exposure (E) 그리고 Controllability (C)를 통해 결정되어진 ASIL 결과를 공유하게 된다.여기서 언급한 Safety Goal 또한 개발하는 제품이 최종적으로 증명해야 하는 요구사항이며,
-이런 인식의 출발이야 말로 ISO 26262를 올바른 방향으로 적용하는 시작점이라 할 수 있다.
 
 ## 참고데이터
-
--
+- 위키
 
 
 ## list of datasets

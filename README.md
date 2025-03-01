@@ -5,7 +5,7 @@ HARA(Hazard Analysis &amp; Risk Assessment) rating bot
 ## list of datasets
 - 검색키워드 :
 
-### NHTSA(도로교통안전국) 데이터셋 
+### NHTSA 데이터셋 
 - [Hazard Analysis of Concept Heavy Truck Platooning Systems](https://www.nhtsa.gov/document/hazard-analysis-concept-heavy-truck-platooning-systems)
 - [Functional Safety Assessment of an Automated Lane Centering System](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13498a_812_573_alcsystemreport.pdf)
 - [Assessment of Safety Standards for Automotive Electronic Control Systems](https://www.nhtsa.gov/sites/nhtsa.gov/files/812285_electronicsreliabilityreport.pdf)

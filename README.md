@@ -78,21 +78,32 @@ breakdown risk
 
 ```
 
-### NHTSA 데이터셋
-- [Hazard Analysis of Concept Heavy Truck Platooning Systems](https://www.nhtsa.gov/sites/nhtsa.gov/files/2021-06/Hazard%20Analysis%20of%20Concept%20Heavy%20Truck%20Platooning%20Systems-%20A.Svenson%20final_0.pdf)
-- [Functional Safety Assessment of an Automated Lane Centering System](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13498a_812_573_alcsystemreport.pdf)
-- [Assessment of Safety Standards for Automotive Electronic Control Systems](https://www.nhtsa.gov/sites/nhtsa.gov/files/812285_electronicsreliabilityreport.pdf)
-- [SAFETY ANALYSIS APPROACHES FOR AUTOMOTIVE ELECTRONIC CONTROL SYSTEMS](https://www.nhtsa.gov/sites/nhtsa.gov/files/2015sae-hommes-safetyanalysisapproaches.pdf)
-- [Functional Safety Assessment of a Generic Steer-by-Wire Steering System With Active Steering and Four-Wheel Steering Features](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13502_812576_steerbywire.pdf)
-- [Functional Safety Assessment of a Generic, Conventional, Hydraulic Braking System With Antilock Brakes, Traction Control, and Electronic Stability Control](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13497a_812574_hydraulicbrakingsystem.pdf)
-- []()
-- []()
-### 정부 데이터셋 : https://catalog.data.gov/
-- []()
+### NHTSA 데이터셋 
+- pdf or ppt 로 주어짐 >> PDF 로 처리
+  - [Hazard Analysis of Concept Heavy Truck Platooning Systems](https://www.nhtsa.gov/sites/nhtsa.gov/files/2021-06/Hazard%20Analysis%20of%20Concept%20Heavy%20Truck%20Platooning%20Systems-%20A.Svenson%20final_0.pdf)
+  - [Functional Safety Assessment of an Automated Lane Centering System](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13498a_812_573_alcsystemreport.pdf)
+  - [Assessment of Safety Standards for Automotive Electronic Control Systems](https://www.nhtsa.gov/sites/nhtsa.gov/files/812285_electronicsreliabilityreport.pdf)
+  - [SAFETY ANALYSIS APPROACHES FOR AUTOMOTIVE ELECTRONIC CONTROL SYSTEMS](https://www.nhtsa.gov/sites/nhtsa.gov/files/2015sae-hommes-safetyanalysisapproaches.pdf)
+  - [Functional Safety Assessment of a Generic Steer-by-Wire Steering System With Active Steering and Four-Wheel Steering Features](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13502_812576_steerbywire.pdf)
+  - [Functional Safety Assessment of a Generic, Conventional, Hydraulic Braking System With Antilock Brakes, Traction Control, and Electronic Stability Control](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13497a_812574_hydraulicbrakingsystem.pdf)
+
+### 정부 데이터셋 : https://catalog.data.gov/ 
+- csv
+  - [https://catalog.data.gov/dataset/crash-data](https://data.townofcary.org/api/v2/catalog/datasets/cpd-crash-incidents/exports/csv)
+  - [https://catalog.data.gov/dataset/crash-reporting-non-motorists-data](https://data.montgomerycountymd.gov/api/views/n7fk-dce5/rows.csv?accessType=DOWNLOAD)
+  - [https://catalog.data.gov/dataset/crash-reporting-drivers-data](https://data.tempe.gov/api/download/v1/items/0c333bd164d64d62aa0ee6f99b1ccf82/csv?layers=0)
+  - [https://catalog.data.gov/dataset/allegheny-county-crash-data](https://data.wprdc.org/datastore/dump/2c13021f-74a9-4289-a1e5-fe0472c89881)
+  - [https://catalog.data.gov/dataset/recalls-data](https://data.transportation.gov/api/views/6axg-epim/rows.csv?accessType=DOWNLOAD)
+  - [https://catalog.data.gov/dataset/crash-reporting-drivers-data](https://data.montgomerycountymd.gov/api/views/mmzv-x632/rows.csv?accessType=DOWNLOAD)
+  - [https://catalog.data.gov/dataset/collisions-involving-vehicles-managed-by-department-of-health-and-mental-hygiene-dohmh](https://data.cityofnewyork.us/api/views/knr6-vurn/rows.csv?accessType=DOWNLOAD)
+  - [https://catalog.data.gov/dataset/crash-reporting-non-motorists-data](https://data.montgomerycountymd.gov/api/views/n7fk-dce5/rows.csv?accessType=DOWNLOAD)
+- 이외 형식
+  - zip : https://catalog.data.gov/dataset/road-traffic-injuries-0935b >> 풀어서 excel 데이터셋만
+  - json : [https://catalog.data.gov/dataset/crash-reporting-incidents-data](https://data.montgomerycountymd.gov/api/views/bhju-22kf/rows.json?accessType=DOWNLOAD)
+
 ### 이외잡 데이터셋
 - [자율주행차상용화확산을 위한 국제표준가이드](https://avstandard.or.kr/uploads/file_content/5515f802-a282-4e61-8404-5d10cb275400/ISO_%EA%B5%AD%EC%A0%9C%ED%91%9C%EC%A4%80_116%EC%84%A0_%EA%B0%80%EC%9D%B4%EB%93%9C.pdf)
-- []()
-- []()
+
 - []()
 
 ### (중복) pdf 링크만

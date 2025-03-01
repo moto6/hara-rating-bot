@@ -1,9 +1,25 @@
 # hara-rating-bot
-HARA(Hazard Analysis &amp; Risk Assessment) rating bot
+- HARA(Hazard Analysis & Risk Assessment) rating bot HARA 수행 자동화 AI Bot 이며 나중에는 Model 구현(목표)
+- 동작예시
+```
+[입력]
+미션오일 누유 발생상황, 누출량은 시간당 0.1 mL/Hour 로 매우 적은 상황이며 현재 미션오일량은 충분한 상태
+
+[답변]
+도메인데이터셋 기반 답변이에요
+Severity(위험도)=S0: 미션오일 누유가 발생하더라도 누출량이 매우 적고 현재 미션오일량이 충분한 상태이므로 부상의 위험은 없습니다.
+Exposure(빈번도)=E1: 이러한 누유 상황은 매우 낮은 확률로 발생할 수 있습니다.
+Controllability(통제도)=C0: 미션오일 누유는 일반적으로 운전자가 쉽게 제어할 수 있는 상황입니다.
+QM (No Risk)
+```
+![image](https://github.com/user-attachments/assets/f6c23335-17f4-4e14-bd48-ca7be892ab6f)
+
 
 # HARA 수행 자동화 AI Model 구현
+- 주피터노트북 파일 참고
+- 1단계 : 주피터+grdio (PoC)
+- 2단계 : encoder 모델(bert or else..) 벡터유사도 기반 문서검색으로 처리 & 파인튜닝
 
-## 컨셉 및 목표
 
 ## 용어집
 

@@ -6,7 +6,7 @@ HARA(Hazard Analysis &amp; Risk Assessment) rating bot
 - 검색키워드 :
 
 ### NHTSA 데이터셋 
-- [Hazard Analysis of Concept Heavy Truck Platooning Systems](https://www.nhtsa.gov/document/hazard-analysis-concept-heavy-truck-platooning-systems)
+- [Hazard Analysis of Concept Heavy Truck Platooning Systems](https://www.nhtsa.gov/sites/nhtsa.gov/files/2021-06/Hazard%20Analysis%20of%20Concept%20Heavy%20Truck%20Platooning%20Systems-%20A.Svenson%20final_0.pdf)
 - [Functional Safety Assessment of an Automated Lane Centering System](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13498a_812_573_alcsystemreport.pdf)
 - [Assessment of Safety Standards for Automotive Electronic Control Systems](https://www.nhtsa.gov/sites/nhtsa.gov/files/812285_electronicsreliabilityreport.pdf)
 - [SAFETY ANALYSIS APPROACHES FOR AUTOMOTIVE ELECTRONIC CONTROL SYSTEMS](https://www.nhtsa.gov/sites/nhtsa.gov/files/2015sae-hommes-safetyanalysisapproaches.pdf)

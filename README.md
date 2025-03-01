@@ -111,8 +111,12 @@ breakdown risk
 ```txt
 ```
 
+## 참고링크 (도메인)
+- https://en.wikipedia.org/wiki/Automotive_Safety_Integrity_Level#Comparison_with_Other_Hazard_Level_Standards
+- https://en.wikipedia.org/wiki/ISO_26262#Part_9:_Automotive_Safety_Integrity_Level_(ASIL)-oriented_and_safety-oriented_analysis
+- https://en.wikipedia.org/wiki/Risk_management
 
-## 참고자료
+## 참고자료 (테크)
 - https://www.themango.co.kr/tmg/mall/admin/manual/manual.php?page=9_4_2
 - https://modulabs.co.kr/blog/information-retrieval-map-ndcg
 - https://www.gpters.org/wealth/post/kakaotalk-chatbot-O6lrOD00C5Cs7Qv

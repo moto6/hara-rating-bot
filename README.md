@@ -20,6 +20,10 @@ QM (No Risk)
 - 1단계 : 주피터+grdio (PoC)
 - 2단계 : encoder 모델(bert or else..) 벡터유사도 기반 문서검색으로 처리 & 파인튜닝
 
+## issue & retro
+- 모델 응답이 비결정적임 : 동일입력에 대해서 동일출력이 나오지 않음 >> 같은 문자열 입력을 집어넣었는데 답변(평가지표) 가 다르게 나오는 경우가 있음
+  - 데이터셋이 불충분함 -> 도메인 전문가의 데이터셋 제공예정
+- 평가근거에 대해서 출력하게 프롬프트 수정 (예정)
 
 ## 디렉토리구조
 - dataset : 벡터디비에 넣은 데이터셋
@@ -69,8 +73,8 @@ QM (No Risk)
 
 
 ## list of datasets
-- 검색키워드 :
-### 검색키워드
+
+- 데이터셋 검색 키워드
 ```
 NHTSA filetype:pdf
 교통사고 통계 / traffic accident statistics
